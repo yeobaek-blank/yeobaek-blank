@@ -51,4 +51,4 @@
 
 📮 문의 및 제안: -
 
-📔 Notion 운영 페이지: [여백_2025]([https://feather-process-664.notion.site/Construction-zone-9463d0ba248449e9a6d91b8954321f46](https://www.notion.so/1d70994329a58073bc0bcc8b7f5168c3?v=1d70994329a5803a85dc000c4983758b))
+📔 Notion 운영 페이지: [여백_2025](https://www.notion.so/1d70994329a58073bc0bcc8b7f5168c3?v=1d70994329a5803a85dc000c4983758b&pvs=4)
