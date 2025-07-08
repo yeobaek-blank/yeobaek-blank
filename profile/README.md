@@ -46,15 +46,15 @@
 
 ## 📂 주요 저장소
 
-| Repo                | 설명                                       |
-| ------------------- | ---------------------------------------- |
-| `automation-lab`    | 명령어 분해 → 자동 응답 시스템 구축 실험 코드 및 문서         |
-| `archive-lab`       | 논문 요약 템플릿, DSpace 업로드, 시각화 자료            |
-| `curator-lab`       | KDC 기반 추천 알고리즘, 프롬프트 설계 및 결과             |
-| `infra-systems`     | GitHub Actions, Firebase 배포 스크립트, 시스템 설계 |
-| `study-materials`   | 실험에 필요한 기초 기술 학습자료(Python, Prompt 등)     |
-| `competitions`      | 공모전 및 외부 해커톤 결과물 및 피드백 정리                |
-| `personal-projects` | 개별 실험실 또는 자율 주제 프로젝트                     |
+|Code| Repo                | 설명                                       |
+|----| ------------------- | ---------------------------------------- |
+|LAB1| `automation-lab`    | 명령어 분해 → 자동 응답 시스템 구축 실험 코드 및 문서         |
+|LAB2| `archive-lab`       | 논문 요약 템플릿, DSpace 업로드, 시각화 자료            |
+|LAB3| `curator-lab`       | KDC 기반 추천 알고리즘, 프롬프트 설계 및 결과             |
+|LAB4| `infra-systems`     | GitHub Actions, Firebase 배포 스크립트, 시스템 설계 |
+|LAB5| `study-materials`   | 실험에 필요한 기초 기술 학습자료(Python, Prompt 등)     |
+|LAB6| `competitions`      | 공모전 및 외부 해커톤 결과물 및 피드백 정리                |
+|LABNaN| `personal-projects` | 개별 실험실 또는 자율 주제 프로젝트                     |
 
 
 ## 🧑‍💻 함께하고 싶다면?
