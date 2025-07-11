@@ -36,7 +36,7 @@
 | 3   | AICurator Lab   | KDC 기반 추천 시스템 + Gemini 프롬프트 구조 설계    | 활동 예정|
 | 4   | Infra Lab       | GitHub CI/CD, Firebase 연동, 시스템 배포 실험 | 활동 보류 |
 | 5   | Competition Lab | 대외 활동 기반 앱/웹 프로젝트 고도화                | 활동 보류|
-| 6   | Idea Lab        | 전공 기반 아이디어 발굴 및 구조화                  | 활동 보류
+| 6   | Idea Lab        | 전공 기반 아이디어 발굴 및 구조화                  | 활동 중|
 | -   | Personal Lab    | 자율 주제 탐구 및 개별 프로젝트 운영                | 활동 예정| 
 
 ## 📚 활용 기술 및 플랫폼
@@ -62,6 +62,6 @@
 > GitHub에서 우리의 여정을 함께 하세요.  
 > 당신의 가능성을 펼칠 기회!
 
-📮 문의 및 제안: -
+📮 문의 및 제안: lisyeobaek@gmail.com
 
 📔 Notion 운영 페이지: [여백_2025](https://www.notion.so/1d70994329a58073bc0bcc8b7f5168c3?v=1d70994329a5803a85dc000c4983758b&pvs=4)
